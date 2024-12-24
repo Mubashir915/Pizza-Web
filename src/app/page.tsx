@@ -4,10 +4,12 @@ export default function Home() {
   return (
     <div>
    <div className="image-wrapper">
-    <Image src={"/pizza.jpg"} alt={"pizza"} width={1400} height={200} className="image"/>
+    <Image src={"/pizza.jpg"} alt={"resturant"} width={1400} height={100} className="image"/>
    <div className="image-text">
-   <h1 className="focus-in-expand-fwd">Laiba Pizza House</h1>
-    <h1 className="focus-in-expand" >Welcome to Our Pizza world!</h1></div>
+   <h1 className="focus-in-expand-fwd">Flavour fusion</h1>
+   <h5 className="focus-in-expand-fwd">Pizza perfection,every time!</h5>
+   
+    </div>
     
    </div>
    <Deal/>

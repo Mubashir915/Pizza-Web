@@ -9,6 +9,7 @@ export default function Header(){
                     <Link href={"/menu"}><li>Menu</li></Link>
                     <Link href={"/deal"}><li>Deals</li></Link>
                     <Link href={"/order"}><li>Order</li></Link>
+                    <Link href={"/profile"}><li>Profile</li></Link>
 
                 </ul>
             </div>
