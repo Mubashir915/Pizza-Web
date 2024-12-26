@@ -154,7 +154,7 @@ export default function OrderSection() {
         <section>
     <div>
     <div>
-      <Link href="/app/login/page">
+      <Link href="/login">
         <button 
           type="submit" 
           className="flex items-center justify-center my-4 w-2/5 p-2 sm:p-3 text-black font-bold rounded border-l-4 border-r-4 border-black bg-orange-500 transition-colors hover:bg-gray-800 hover:text-white mx-auto"
