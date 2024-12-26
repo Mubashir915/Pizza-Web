@@ -27,7 +27,7 @@ export default function OrderSection() {
               />
             </div>
 
-            {/* For phone number */}
+
             <div>
               <label
                 htmlFor="phone"
