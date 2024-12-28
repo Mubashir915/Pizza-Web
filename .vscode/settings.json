@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MySql local ",
+            "database": "pizza_db",
+            "username": "root",
+            "password": "localhost@911",
+            "connectionTimeout": 30
+        }
+    ]
+}
